@@ -1,4 +1,4 @@
-# RTL-Design-LAB2 — SystemC 建模與模擬
+# SystemC 建模與模擬
 
 在 Linux 環境下使用 SystemC 2.3.1 撰寫並模擬四個練習。內容從基本的時脈驅動行程開始，依序練習 FIFO 通道通訊、模組化的 testbench 架構，最後以 SystemC 定點數（fixed-point）型別建立 RGB 轉 YUV 的模型，並與浮點數及整數版本比較數值誤差。
 
